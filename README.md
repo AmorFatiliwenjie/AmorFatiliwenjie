@@ -1,6 +1,6 @@
 ### 😄 welcome to my page!
 - 👋 Hi, I’m @AmorFatiliwenjie
-- 👀 I’m interested in Deep-Learning, Resource Scheduling, Resource Allocation
+- 👀 I’m interested in ML for system, Deep-Learning, Resource Scheduling, Resource Allocation
 - 🌱 I’m currently learning at Nankai University.
 - 📫 How to reach me: nkliwenjie@163.com
 
